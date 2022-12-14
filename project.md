@@ -76,7 +76,7 @@ Yritetään ajaa salttila minonille.
  
  Lopputulos näiden osalta oli onnistunut. 
  
- Yritin myös asentaa
+ Yritin myös asentaa vscodea salt furmulalla, mutta moti meni, kun liian monta tuntia meni vain pähkäillessä miksi en saanut sitä toimimaan.
     
     
     
