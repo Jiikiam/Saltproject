@@ -52,7 +52,25 @@ Kirjoitetaan init.sls tiedostoon tarvittavat paketit.
     $ service status nginx
     $ service status virtualbox
     
-# 
+# Salttilan ajaminen masterilta minionille.
+
+Yritetään ajaa salttila minonille.
+
+    $ sudo salt 'ubuntudesktop' state.apply project
+    
+ ![Alt text](/project/p3.png) 
+ 
+ Tarkistetaan, että kumpikin palvelu on päällä.
+ 
+ ![Alt text](/project/p4.png) 
+ ![Alt text](/project/p5.png) 
+    
+    
+    
+    
+    
+    
+    
  
      
      
