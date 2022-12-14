@@ -1,1 +1,1 @@
-# Tässä projektissa tein oman 
+Tässä projektissa tein oman salttilan ja ajoin sen minionille. 
