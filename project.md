@@ -60,10 +60,23 @@ Yritetään ajaa salttila minonille.
     
  ![Alt text](/project/p3.png) 
  
- Tarkistetaan, että kumpikin palvelu on päällä.
+ Näytti menneen läpi. Tarkistetaan, että kumpikin palvelu on päällä.
  
  ![Alt text](/project/p4.png) 
+ 
  ![Alt text](/project/p5.png) 
+ 
+ Hakemalla minionin ip osoittetta selaimella voidaan varmistaa nginx toiminta.
+ 
+ ![Alt text](/project/p2.png) 
+ 
+ Käydään avaamassa virtualbox.
+ 
+ ![Alt text](/project/p10.png) 
+ 
+ Lopputulos näiden osalta oli onnistunut. 
+ 
+ Yritin myös asentaa
     
     
     
