@@ -1,2 +1,2 @@
 # Saltproject
-Own salt for school project
+Own saltstate for school project.
