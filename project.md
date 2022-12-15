@@ -28,7 +28,7 @@ Nyt voidaan tehdä nopea testi toimiiko yhteys masterin ja minonin välillä.
 
      $ sudo salt ’ubuntudesktop’ test.ping
      
-# Salttilan tekeminen käsin. Tarkoituksena on asentaa saltilla virtualboxin ja nginx web-palvelin masterille.
+# Salttilan tekeminen lokaalisti. Tarkoituksena on asentaa saltilla virtualboxin ja nginx web-palvelin masterille.
 
 Uusi project kansio /srv/salt kansion ja init.sls tiedoston luominen project kansioon.
 
